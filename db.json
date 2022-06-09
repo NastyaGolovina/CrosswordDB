@@ -4,9 +4,33 @@
       "id": 1,
       "X": 7,
       "Y": 1,
-      "orientation":"vertical",
+      "orientation":"V",
       "question": "Steve Rogers",
       "word": "captianamerica"
+    },
+    {
+      "id": 2,
+      "X": 3,
+      "Y": 14,
+      "orientation":"H",
+      "question": "Carol Danvers",
+      "word": "captianmarvel",
+    },
+    {
+      "id": 3,
+      "X": 4,
+      "Y": 14,
+      "orientation":"V",
+      "question": "Scott Lang",
+      "word": "antman",
+    },
+    {
+      "id": 4,
+      "X": 1,
+      "Y": 16,
+      "orientation":"H",
+      "question": "Sherlock",
+      "word": "doctorstrange",
     }
   ]
 
