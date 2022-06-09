@@ -14,15 +14,15 @@
       "Y": 14,
       "orientation":"H",
       "question": "Carol Danvers",
-      "word": "captianmarvel",
-    },
+      "word": "captianmarvel"
+    }
     {
       "id": 3,
       "X": 4,
       "Y": 14,
       "orientation":"V",
       "question": "Scott Lang",
-      "word": "antman",
+      "word": "antman"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "Y": 16,
       "orientation":"H",
       "question": "Sherlock",
-      "word": "doctorstrange",
+      "word": "doctorstrange"
     }
   ]
 
