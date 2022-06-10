@@ -6,7 +6,7 @@
       "Y": 0,
       "orientation":"V",
       "question": "Steve Rogers",
-      "word": "captianamerica"
+      "word": "captainamerica"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "Y": 13,
       "orientation":"H",
       "question": "Carol Danvers",
-      "word": "captianmarvel"
+      "word": "captainmarvel"
     },
     {
       "id": 3,
